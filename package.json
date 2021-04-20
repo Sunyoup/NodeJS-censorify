@@ -5,7 +5,7 @@
     "description": "Censors words out of text",
     "main": "censortext",
     "repository": {
-        "url": "https://github.com/Sunyoup/NodeJS/censorify",
+        "url": "https://github.com/Sunyoup/NodeJS-censorify",
         "type": "git"
     },
     "keywords": [
