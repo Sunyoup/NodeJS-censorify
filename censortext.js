@@ -12,10 +12,10 @@ function censor(inStr) {
 function addCensoredWord(word) {
     customCensoredWords.push(word);
 }
-function getCensoredWord() {
+function getCensoredWords() {
     return censoredWords.concat(customCensoredWords);
 }
 exports.censor = censor;
 exports.addCensoredWord = addCensoredWord;
-exports.addCensoredWords = addCensoredWords;
+exports.getCensoredWords = getCensoredWords;
 
